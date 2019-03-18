@@ -1,5 +1,6 @@
 puclic class Student
 {
   private int age;
-  pivate String name;
+  private String name;
+  private String gender;
 }
